@@ -2,6 +2,13 @@
 
 This project is a python application for automatic detection of number plate from a given car and also verifies the information from a local database on the system. The project can be implemented for surveillance, tollgate, security checkpoint etc
 
+##TEST IMAGES
+The test image are not included in this repository due to size limit.
+
+You can download them here: https://drive.google.com/drive/folders/1JgbFq5HnR02n4iUyLwxEqNh2aHYaZQ7U?usp=drive_link
+
+After downloading, extract the files into a folder named "TEST_IMAGES" at the project root.
+
 ##PROJECT DEPENDENCIES
 **1. Python(3.0 and above)**
 _Instead of above, you can just install_ **Anaconda** _it comes with some python dependencies preinstalled_
