@@ -1,0 +1,5 @@
+__pycache__/
+TEST_IMAGES/
+*.zip
+*.mp4
+*.msi
